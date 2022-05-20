@@ -1,1 +1,1 @@
-CapsLock::Send, {Alt Down}{Shift Down}{Shift Up}{Alt Up}
+CapsLock::Send, {Shift Down}{Alt Down}{Alt Up}{Shift Up}
